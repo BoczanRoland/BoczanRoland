@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BoczanRoland
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me boczanroland3@gmail.com
 
 <!---
